@@ -13,7 +13,7 @@ CheckOut Dalle-Clone : https://dall-e-2-0-r6dr.vercel.app/
 - 🛠️ Rich Features
 - 📦 Optimized Build
 - 🔩 Universal Plugin Interface
-- 🔑 Fully Typed APIs
+- 🔑 Fully Typed API
 
 Vite (French word for "quick", pronounced [`/vit/`](https://cdn.jsdelivr.net/gh/vitejs/vite@main/docs/public/vite.mp3), like "veet") is a new breed of frontend build tooling that significantly improves the frontend development experience. It consists of two major parts:
 
